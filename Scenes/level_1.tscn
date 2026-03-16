@@ -5,6 +5,7 @@
 [ext_resource type="PackedScene" uid="uid://dpcmbrk7yimsi" path="res://Scenes/player.tscn" id="3_6444e"]
 
 [node name="Main" type="Node2D"]
+position = Vector2(1, 0)
 
 [node name="Backround sprite" type="Sprite2D" parent="."]
 position = Vector2(393, -70)
